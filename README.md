@@ -13,4 +13,12 @@ Population, total
 Population growth (annual %)
 Life expectancy at birth, total (years)
 
-To predict the GDP growth & inflation and forecast for the next 5 years (2021-2025),by using the ARIMA forecasting method.
+
+Project Overview:
+
+In this project, I conducted an in-depth analysis of economic data spanning from 1960 to 2020, focusing on GDP and inflation. The goal was to forecast GDP growth and inflation rates for the upcoming five years (2021-2025) using the ARIMA (AutoRegressive Integrated Moving Average) forecasting method.
+
+Key contents :-
+1.Data Exploration and Manipulation:
+2.Forecasting Methodology: 
+ARIMA Model: I applied the ARIMA model, which is well-suited for time series forecasting, to predict future values of GDP and inflation.
