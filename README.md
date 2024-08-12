@@ -12,3 +12,5 @@ Inflation, consumer prices (annual %)
 Population, total
 Population growth (annual %)
 Life expectancy at birth, total (years)
+
+To predict the GDP growth & inflation and forecast for the next 5 years (2021-2025),by using the ARIMA forecasting method.
